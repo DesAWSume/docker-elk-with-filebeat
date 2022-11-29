@@ -1,0 +1,26 @@
+<QuerySiteInformation>
+	xmlns="http://www.example.com"
+	<Site>
+		<id>abc-cde-fvvvv</id>
+		<Item>
+			<id>e5753ead-d202-451e-92cc-ea49d0a6bdf5</id>
+			<code>67448833344443</code>
+			<objectMessage>Internal> message shown here in multiple lines</objectMessage>
+			<reference>/</reference>
+		</Item>
+		<Item>
+			<id>e5753ead-d202-451e-92cc-ea49d0a6bdf5</id>
+			<code>67448833344443</code>
+			<objectMessage>Internal> message shown here in multiple lines</objectMessage>
+			<reference>/</reference>
+		</Item>
+	</Site>
+	<SiteInteraction>
+		<InteractionItem>
+			<Location>
+				<id>8496940--2842047577555</id>
+				<objectMessage>Internal> message shown here in multiple lines</objectMessage>
+			</Location>
+		</InteractionItem>
+	</SiteInteraction>
+</QuerySiteInformation>
